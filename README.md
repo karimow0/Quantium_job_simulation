@@ -8,7 +8,7 @@ Task_1.ipynb: Data cleaning, validation, and customer segmentation analysis.
 
 Task_2.ipynb: Experimentation, control-store matching, and uplift testing.
 
-Category-Review-Chips.pdf: Final presentation and executive summary.
+report.pdf: Final presentation and executive summary.
 
 Key Insights and Results
 Customer Segmentation
@@ -22,3 +22,8 @@ I evaluated a three-month shelf layout trial in Stores 77, 86, and 88 by compari
 Strategic Recommendation
 
 Based on the validated sales and traffic growth, the final recommendation is a national rollout of the new shelf layout. This strategy prioritizes high-margin premium brands (Kettle and Smiths) at eye-level to align with the shopping habits of the most profitable customer segments.
+
+Technical Stack: 
+language: Python
+libraries: Pandas and Numpy(for data manipulation), Matplotlib and Seabor(for data visualization), Scipy(for statistical testing)
+reporting: PowerPoint
